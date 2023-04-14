@@ -24,7 +24,7 @@ Connect with me:
 - [Crash Course in Data-Linear Methods to Reduce the Curse of Dimensionality](https://medium.com/aiskunks/linear-methods-to-reduce-the-curse-of-dimensionality-data-preprocessing-327ee544d6c4)
 
 ## 📈 GitHub Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shardulchavan&hide=javascript,html)](https://github.com/shardulchavan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shardulchavan&hide_progress=true)](https://github.com/shardulchavan/github-readme-stats)
 [![Shardul's github stats](https://github-readme-stats.vercel.app/api?username=shardulchavan)](https://github.com/shardulchavan)
 
 
