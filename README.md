@@ -1,6 +1,6 @@
 
 ### Hello, I'm Shardul Chavan 👋
-*I'm a highly skilled and motivated aspiring data scientist with extensive experience in developing and implementing advanced machine learning models to solve complex business problems. *
+** I'm a highly skilled and motivated aspiring data scientist with extensive experience in developing and implementing advanced machine learning models to solve complex business problems. **
 
 🎓
 I hold a Master's degree in Information Systems from Northeastern University and a Bachelor's degree in Computer Engineering from the University of Mumbai, giving me a strong academic background in data science, database management, and computer engineering.
