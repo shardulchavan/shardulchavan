@@ -1,8 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/62551217/231923844-d2cc1326-c236-4da5-935a-eb6ff2dc9685.png" alt="my banner"></a>
-</p>
-
-
+</p> -->
 
 <h3 align="center">
 Hi there, I'm Shardul Chavan 👋
