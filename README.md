@@ -18,13 +18,11 @@ Connect with me:
 
 <img alt=”Python” src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img alt=”Java” src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><img alt=”R” src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/><img alt=”MySQL” src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><img alt=”SQLite” src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/><img alt=”Colab” src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
 
+## 📝 Latest Blog Posts
 
-Latest Medium Posts
-Analyzing and Plotting NFL Data with nfl-data-py and Plotly
-Creating Various Plot Types and Subplots with Plotly
-An Introduction to Plotly for Matplotlib Users
-Scheduling Notebook and Script Runs with GitHub Actions
-Intro to Comparing and Analyzing Multiple Unevenly Spaced Time-Series Signals
+- [Forecasting Climate Change: An Exploratory Time Series Data Analysis Approach](https://medium.com/@chavan.shardul360/forecasting-climate-change-an-exploratory-time-series-data-analysis-approach-32ccc6ab7421)
+- [Crash Course in Data-Linear Methods to Reduce the Curse of Dimensionality](https://medium.com/aiskunks/linear-methods-to-reduce-the-curse-of-dimensionality-data-preprocessing-327ee544d6c4)
+
 
 
 
