@@ -1,21 +1,11 @@
-### Hi there 👋
+### Hi there 
 
-Hello, my name is Shardul Chavan and I am a Master of Science in Information Systems student at Northeastern University, Boston. I am expected to graduate in April 2024, and have completed relevant courses such as Data Science Engineering Methods and Tools, Database Management & Database Design, Advance Data Science and Architecture.
+##Hello, I'm Shardul Chavan 👋
+I'm a highly skilled and motivated aspiring data scientist with extensive experience in developing and implementing advanced machine learning models to solve complex business problems. I hold a Master's degree in Information Systems from Northeastern University and a Bachelor's degree in Computer Engineering from the University of Mumbai, giving me a strong academic background in data science, database management, and computer engineering.
 
-Prior to my graduate studies, I earned a Bachelor of Engineering in Computer Engineering from the University of Mumbai, India in June 2022.
+Throughout my career, I've had the opportunity to work on a range of exciting projects, including developing a drowning accident detection system using deep learning models and implementing natural language processing pipelines for sentiment analysis of Amazon product reviews. I'm also skilled in Python programming, database management, and data visualization using tools like Jupyter Notebook, MS Power BI, and Tableau. My passion for data science and eagerness to learn new technologies drives me to stay up-to-date with the latest trends in the field and continually enhance my skills.
 
-During my academic journey, I have gained valuable experience through various internships and academic projects. I have worked as a Data Analyst Intern at AI BI STREET PVT. LTD. in Mumbai, India, where I contributed to the development of deep learning models and achieved 91% accuracy on adversarial test cases.
-
-I have also worked as a Python Developer Intern, where I investigated Particle Swarm Optimization computer techniques and applied them to optimize parameters influencing dam stability. I was responsible for executing 4 stochastic optimization algorithms to determine parameters preventing a dam from sliding and collapsing, and evaluating and communicating optimized solutions through presentations to support decision-making for customers and stakeholders.
-
-I possess a wide range of technical skills, including programming languages such as Python, Java, SQL, R, C, HTML, and CSS, and databases such as MySQL, Microsoft SQL Server, Oracle, and SQLite. I am proficient in machine learning techniques such as Regression, Clustering, XGBoost, Supervised/Unsupervised Learning, Time Series, and Neural Networks, and have experience working with libraries such as Pandas, NumPy, TensorFlow, Keras, PyTorch, Scikit-Learn, Seaborn, Matplotlib, spaCy, and NLTK.
-
-In my academic projects, I have demonstrated my skills in data scraping, Natural Language Processing (NLP), data preprocessing, data imputation, feature selection techniques, and model fine-tuning. My projects include the development of a drowning accident detection system using deep models such as Time-Series analysis and ConvLSTM, and the development of a multilingual and text summarizing speech-enabled notepad using NLP and speech recognition.
-
-I am also a certified Data Scientist by John Hopkins University and have completed "Power BI Essential Training" by LinkedIn Learning and "Deep Learning A-Z: Hands-on Artificial Neural Networks" by Udemy.
-
-Overall, I am a motivated and skilled individual with a passion for data science and a strong desire to make meaningful contributions in the field.
-
+With my expertise in machine learning, data analysis, and database management, I'm confident that I can help any organization leverage data-driven insights to drive business growth. I'm excited to take on new challenges and collaborate with talented teams to develop innovative solutions that meet the needs of today's fast-paced business world.
 
 
 
