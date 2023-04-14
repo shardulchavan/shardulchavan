@@ -10,8 +10,7 @@ Connect with me:
 <a href="https://medium.com/@chavan.shardul360"><img align="left" src="https://raw.githubusercontent.com/shardulchavan/shardulchavan/main/Images/medium-icon-svgrepo-com.svg" alt="icon | Medium" width="21px"/></a>
 
 <a href="chavan.shardul360@gmail.com"><img align="left" src="https://raw.githubusercontent.com/shardulchavan/shardulchavan/main/Images/Gmail_icon_(2020).svg" alt="icon | Gmail" width="21px"/></a>
-
-
+</p>
  
 ## 💼 Technical Skills
 
