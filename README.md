@@ -5,7 +5,7 @@ Hi there, I'm Shardul Chavan 👋
 </h3>
 
 <h2 align="center">
-I'm a Data Sciene Aspirant 💻!
+I'm a Data Sciene Aspirant 💻
 </h2> 
 
 
