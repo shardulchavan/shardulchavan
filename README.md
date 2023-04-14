@@ -5,7 +5,7 @@
 
 Connect with me:
 
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ref="chavan.shardul360@gmail.com"/>
  
 
 Latest Medium Posts
