@@ -11,10 +11,11 @@ Connect with me:
 
 <a href="chavan.shardul360@gmail.com"><img align="left" src="https://raw.githubusercontent.com/shardulchavan/shardulchavan/main/Images/Gmail_icon_(2020).svg" alt="icon | Gmail" width="21px"/></a>
 
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ref="chavan.shardul360@gmail.com"/>
+
  
 ## 💼 Technical Skills
 
+<img alt=”Python” src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
