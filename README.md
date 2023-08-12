@@ -31,7 +31,10 @@ Connect with me:
 ## 📝 Latest Blog Posts
 
 - [Forecasting Climate Change: An Exploratory Time Series Data Analysis Approach](https://medium.com/@chavan.shardul360/forecasting-climate-change-an-exploratory-time-series-data-analysis-approach-32ccc6ab7421)
+
+- [“Crash Course in Causality” Understanding Cause-and-Effect Relationships](https://medium.com/@chavan.shardul360/crash-course-in-causal-analysis-understanding-cause-and-effect-relationships-29dabc7686bf)
 - [Crash Course in Data-Linear Methods to Reduce the Curse of Dimensionality](https://medium.com/aiskunks/linear-methods-to-reduce-the-curse-of-dimensionality-data-preprocessing-327ee544d6c4)
+
 
 ## 📈 GitHub Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shardulchavan&hide_progress=true&theme=cobalt)](https://github.com/shardulchavan/github-readme-stats)
