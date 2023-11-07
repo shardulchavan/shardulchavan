@@ -6,12 +6,12 @@
 Hi there, I'm Shardul Chavan 👋
 </h3>
 
-<h2 align="center">
-I'm a Data Sciene Aspirant 💻
-</h2> 
 
+<h2 align="center">👨‍💻 Data Science Aspirant & Data Engineer Enthusiast 📊</h2>
 
-"Passionate data science enthusiast with hands-on experience in machine learning and deep learning techniques. Strong skills in Python, SQL, and data visualization tools, coupled with a keen eye for detail and problem-solving. Excited to collaborate on innovative projects and leverage data-driven insights to create meaningful impact."
+Passionate data science enthusiast with hands-on experience in machine learning and deep learning techniques. Strong skills in Python, SQL, and data visualization tools, coupled with a keen eye for detail and problem-solving. Excited to collaborate on innovative projects and leverage data-driven insights to create meaningful impact.
+
+🔍 Currently seeking opportunities in data engineering and data science to expand my expertise and contribute to data infrastructure and architecture.
 
 
 Connect with me:
@@ -58,6 +58,9 @@ Connect with me:
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 
+## 📦 My Organization's Projects
+
+- [PDF DATA EXTRACTION - QA APPLICATION](https://github.com/BigDataIA-Fall2023-Team2/Assignment2.git)
 
 ## 📝 Latest Blog Posts
 
@@ -70,6 +73,9 @@ Connect with me:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shardulchavan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shardulchavan&hide_progress=true&theme=cobalt)](https://github.com/shardulchavan/github-readme-stats)
+
+
+
 
 
 
