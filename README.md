@@ -7,7 +7,7 @@ Hi there, I'm Shardul Chavan 👋
 </h3>
 
 
-<h2 align="center">👨‍💻 Data Science Aspirant & Data Engineer Enthusiast 📊</h2>
+<h2 align="center">👨‍💻 Data Science Aspirant & Data Engineer 📊</h2>
 
 Passionate data science enthusiast with hands-on experience in machine learning and deep learning techniques. Strong skills in Python, SQL, and data visualization tools, coupled with a keen eye for detail and problem-solving. Excited to collaborate on innovative projects and leverage data-driven insights to create meaningful impact.
 
