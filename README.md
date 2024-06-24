@@ -61,6 +61,8 @@ Connect with me:
 ## 📦 My Organization's Projects
 
 - [PDF DATA EXTRACTION - QA APPLICATION](https://github.com/BigDataIA-Fall2023-Team2/Assignment2.git)
+- [AI-Enhanced NewsSphere: A Personalized News Digest Platform]([https://github.com/BigDataIA-Fall2023-Team2/Assignment2.git](https://github.com/shardulchavan/NewsSphereAI))
+  
 
 ## 📝 Latest Blog Posts
 
