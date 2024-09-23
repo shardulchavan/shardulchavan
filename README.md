@@ -83,9 +83,10 @@ Connect with me:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shardulchavan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shardulchavan&hide_progress=true&theme=cobalt)](https://github.com/shardulchavan/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shardulchavan&theme=dark&hide_border=false)<br/>
 
 
-
+![](https://github-profile-trophy.vercel.app/?username=shardulchavan&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/>
 
 
 
