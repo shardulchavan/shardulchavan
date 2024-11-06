@@ -16,6 +16,8 @@ Passionate data science enthusiast with hands-on experience in machine learning 
 
 Connect with me:
 
+[My Resume.pdf](https://github.com/shardulchavan/My-Portfolio/blob/main/resume/2-ShardulResume.pdf)
+
 <a href="https://www.linkedin.com/in/shardulchavan36/"><img align="left" src="https://raw.githubusercontent.com/shardulchavan/shardulchavan/main/Images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
 
 <a href="https://medium.com/@chavan.shardul360"><img align="left" src="https://raw.githubusercontent.com/shardulchavan/shardulchavan/main/Images/medium-icon-svgrepo-com.svg" alt="icon | Medium" width="21px"/></a>
