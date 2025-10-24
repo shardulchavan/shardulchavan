@@ -81,7 +81,7 @@ Connect with me:
 - [“Crash Course in Causality” Understanding Cause-and-Effect Relationships](https://medium.com/@chavan.shardul360/crash-course-in-causal-analysis-understanding-cause-and-effect-relationships-29dabc7686bf)
 - [Crash Course in Data-Linear Methods to Reduce the Curse of Dimensionality](https://medium.com/aiskunks/linear-methods-to-reduce-the-curse-of-dimensionality-data-preprocessing-327ee544d6c4)
 
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shardulchavan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shardulchavan&hide_progress=true&theme=cobalt)](https://github.com/shardulchavan/github-readme-stats)
@@ -89,6 +89,7 @@ Connect with me:
 
 
 ![](https://github-profile-trophy.vercel.app/?username=shardulchavan&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/>
+-->
 
 
 
