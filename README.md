@@ -66,7 +66,7 @@ Connect with me:
 | Repository | Description |
 |---|---|
 | [AI-Enhanced NewsSphere: A Personalized News Digest Platform](https://github.com/shardulchavan/NewsSphereAI) | An app that delivers personalized, summarized news with audio playback, leveraging tools like Vector Database, Airflow, and OpenAI |
-| [PDF DATA EXTRACTION - QA APPLICATION](https://github.com/BigDataIA-Fall2023-Team2/Assignment2.git) | Airflow Pipeline that extracts text from PDFs and integrates OpenAI to answer user questions based on the PDF content |
+| [PDF DATA EXTRACTION - QA APPLICATION](https://github.com/shardulchavan/CFA-PDFs-RAG) | Airflow Pipeline that extracts text from PDFs and integrates OpenAI to answer user questions based on the PDF content |
 | [Snowflake_Lanchain_Adhoc_SQLQuery_Generator](https://github.com/shardulchavan/Snowflake_Lanchain_Adhoc_SQLQuery_Generator)| An app that converts user questions into SQL queries to retrieve and display data from Snowflake databases |
 | [Time_Series_Forecasting](https://github.com/shardulchavan/Time_Series_Forecasting) | Conducting sophisticated Exploratory Data Analysis (EDA) to unveil insights and patterns in time series data, driving machine learning model development. |
 | [AWS-YoutubeVideoTrendAnalyzer](https://github.com/shardulchavan/AWS-YTVideoTrendAnalyzer) | Developed a scalable data engineering pipeline on AWS to analyze YouTube video trends |
