@@ -62,25 +62,22 @@ Connect with me:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+## 🚀 Projects
 
 | Repository | Description |
-|---|---|
-| [AI-Enhanced NewsSphere: A Personalized News Digest Platform](https://github.com/shardulchavan/NewsSphereAI) | An app that delivers personalized, summarized news with audio playback, leveraging tools like Vector Database, Airflow, and OpenAI |
-| [PDF DATA EXTRACTION - QA APPLICATION](https://github.com/shardulchavan/CFA-PDFs-RAG) | Airflow Pipeline that extracts text from PDFs and integrates OpenAI to answer user questions based on the PDF content |
-| [Snowflake_Lanchain_Adhoc_SQLQuery_Generator](https://github.com/shardulchavan/Snowflake_Lanchain_Adhoc_SQLQuery_Generator)| An app that converts user questions into SQL queries to retrieve and display data from Snowflake databases |
-| [Time_Series_Forecasting](https://github.com/shardulchavan/Time_Series_Forecasting) | Conducting sophisticated Exploratory Data Analysis (EDA) to unveil insights and patterns in time series data, driving machine learning model development. |
-| [AWS-YoutubeVideoTrendAnalyzer](https://github.com/shardulchavan/AWS-YTVideoTrendAnalyzer) | Developed a scalable data engineering pipeline on AWS to analyze YouTube video trends |
-
-
-
+| --- | --- |
+| [EHR-AI-Classifier](https://github.com/shardulchavan/ehr-ai-classifier) | Production-ready NLP system detecting diabetes & cancer from EHR clinical notes — rule-based feature engineering + GPT-4, F1: 0.90 |
+| [NewsSphereAI](https://github.com/shardulchavan/NewsSphereAI) | Personalized news digest with AI summarization and audio playback — Airflow, Pinecone, OpenAI, Streamlit |
+| [CFA-PDFs-RAG](https://github.com/shardulchavan/CFA-PDFs-RAG) | RAG pipeline for document Q&A — extracts, embeds, and answers questions from PDF content using Pinecone + GPT-4 |
+| [AWS-YTVideoTrendAnalyzer](https://github.com/shardulchavan/AWS-YTVideoTrendAnalyzer) | Scalable ETL pipeline on AWS analyzing YouTube video trends — S3, Lambda, Glue, QuickSight |
+| [Snowflake-AdventureWorks-Migration](https://github.com/shardulchavan/Snowflake-TakeHome-AdventureWorks-Migration) | Automated SQL Server → Snowflake migration framework — 760k rows, 70 tables, 30+ data type mappings via Parquet |
+| [Snowflake-LangChain-SQL-Generator](https://github.com/shardulchavan/Snowflake_Lanchain_Adhoc_SQLQuery_Generator) | Natural language → SQL query engine over Snowflake databases using LangChain |
 
 ## 📝 Latest Blog Posts
 
 - [Forecasting Climate Change: An Exploratory Time Series Data Analysis Approach](https://medium.com/@chavan.shardul360/forecasting-climate-change-an-exploratory-time-series-data-analysis-approach-32ccc6ab7421)
-
-- [“Crash Course in Causality” Understanding Cause-and-Effect Relationships](https://medium.com/@chavan.shardul360/crash-course-in-causal-analysis-understanding-cause-and-effect-relationships-29dabc7686bf)
-- [Crash Course in Data-Linear Methods to Reduce the Curse of Dimensionality](https://medium.com/aiskunks/linear-methods-to-reduce-the-curse-of-dimensionality-data-preprocessing-327ee544d6c4)
-
+- ["Crash Course in Causality" — Understanding Cause-and-Effect Relationships](https://medium.com/@chavan.shardul360/crash-course-in-causal-analysis-understanding-cause-and-effect-relationships-29dabc7686bf)
+- [Linear Methods to Reduce the Curse of Dimensionality](https://medium.com/aiskunks/linear-methods-to-reduce-the-curse-of-dimensionality-data-preprocessing-327ee544d6c4)
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shardulchavan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
