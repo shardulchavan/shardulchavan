@@ -28,7 +28,7 @@ I don't hand off at the model. I design the data layer that feeds it, build the 
 | [NewsSphereAI](https://github.com/shardulchavan/NewsSphereAI) | Airflow · Pinecone · OpenAI · FastAPI · React | Full-stack AI news platform — ingestion pipeline, vector search, GPT summarization, TTS audio playback, JWT auth, deployed on GCP |
 | [CFA-PDFs-RAG](https://github.com/shardulchavan/CFA-PDFs-RAG) | Pinecone · OpenAI · FastAPI · Airflow | Production RAG pipeline — PDF extraction, embedding, retrieval, GPT-4 answers grounded in source. No hallucinations by design |
 | [AWS-YTVideoTrendAnalyzer](https://github.com/shardulchavan/AWS-YTVideoTrendAnalyzer) | AWS S3 · Glue · Lambda · QuickSight | End-to-end ETL pipeline on AWS — raw ingestion to analytics dashboard, fully automated |
-| [Snowflake-AdventureWorks-Migration](https://github.com/shardulchavan/Snowflake-TakeHome-AdventureWorks-Migration) | Snowflake · Parquet · Python | Automated SQL Server → Snowflake migration — 760k rows, 70 tables, 30+ type mappings, edge case handling for spatial and binary data |
+| [SnowBridge](https://github.com/shardulchavan/snowbridge) | Snowflake · GPT-4 · Parquet · Python | AI-powered T-SQL → Snowflake migration engine — GPT-4 converts views and stored procedures, 760k rows, 71 tables, zero manual intervention |
 | [Snowflake-LangChain-SQL-Generator](https://github.com/shardulchavan/Snowflake_Lanchain_Adhoc_SQLQuery_Generator) | LangChain · Snowflake · Streamlit | Natural language → SQL over Snowflake — schema-aware query generation, no manual SQL required |
 
 ---
