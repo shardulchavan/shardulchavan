@@ -1,108 +1,101 @@
-<!-- <p align="center">
-  <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/62551217/231923844-d2cc1326-c236-4da5-935a-eb6ff2dc9685.png" alt="my banner"></a>
-</p> -->
+<h2 align="center">Shardul Chavan</h2>
 
-<h3 align="center">
-Hi there, I'm Shardul Chavan 👋
-</h3>
+<p align="center">
+<b>Founding Engineer · AI Systems · Full Stack Data</b>
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shardulchavan36/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://medium.com/@chavan.shardul360">Writing</a> &nbsp;·&nbsp;
+  <a href="https://github.com/shardulchavan/My-Portfolio/blob/main/resume/2-ShardulResume.pdf">Resume</a>
+</p>
 
-<h2 align="center">👨‍💻  Data Engineer & Data Science Aspirant 📊</h2>
+---
 
-Passionate data science enthusiast with hands-on experience in machine learning and deep learning techniques. Strong skills in Python, SQL, and data visualization tools, coupled with a keen eye for detail and problem-solving. Excited to collaborate on innovative projects and leverage data-driven insights to create meaningful impact.
+I'm the kind of engineer early-stage teams hire when they need one person to own the entire technical surface, **data infrastructure, ML systems, backend APIs, and the architecture decisions that compound over time.**
 
-🔍 Currently seeking opportunities in data engineering and data science to expand my expertise and contribute to data infrastructure and architecture.
+I don't hand off at the model. I design the data layer that feeds it, build the service that runs it, and wire it into a product someone can actually use. Previously a Data Engineer at **Skyworks Solutions**. Currently MS Information Systems at **Northeastern University**.
 
+> If you're building an AI product and need someone who can move fast without breaking the data layer, [let's talk](https://www.linkedin.com/in/shardulchavan36/).
 
-Connect with me:
+---
 
-[My Resume.pdf](https://github.com/shardulchavan/My-Portfolio/blob/main/resume/2-ShardulResume.pdf)
+## What I've shipped
 
-<a href="https://www.linkedin.com/in/shardulchavan36/"><img align="left" src="https://raw.githubusercontent.com/shardulchavan/shardulchavan/main/Images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
+| Project | Stack | What makes it interesting |
+| --- | --- | --- |
+| [ehr-ai-classifier](https://github.com/shardulchavan/ehr-ai-classifier) | Python · GPT-4 · scikit-learn | Clinical NLP detecting diabetes & cancer from EHR notes. Dual approach: rule-based (F1: 0.90) + LLM. CV-optimized thresholds, interpretable outputs, audit-ready for HIPAA environments |
+| [NewsSphereAI](https://github.com/shardulchavan/NewsSphereAI) | Airflow · Pinecone · OpenAI · FastAPI · React | Full-stack AI news platform — ingestion pipeline, vector search, GPT summarization, TTS audio playback, JWT auth, deployed on GCP |
+| [CFA-PDFs-RAG](https://github.com/shardulchavan/CFA-PDFs-RAG) | Pinecone · OpenAI · FastAPI · Airflow | Production RAG pipeline — PDF extraction, embedding, retrieval, GPT-4 answers grounded in source. No hallucinations by design |
+| [AWS-YTVideoTrendAnalyzer](https://github.com/shardulchavan/AWS-YTVideoTrendAnalyzer) | AWS S3 · Glue · Lambda · QuickSight | End-to-end ETL pipeline on AWS — raw ingestion to analytics dashboard, fully automated |
+| [Snowflake-AdventureWorks-Migration](https://github.com/shardulchavan/Snowflake-TakeHome-AdventureWorks-Migration) | Snowflake · Parquet · Python | Automated SQL Server → Snowflake migration — 760k rows, 70 tables, 30+ type mappings, edge case handling for spatial and binary data |
+| [Snowflake-LangChain-SQL-Generator](https://github.com/shardulchavan/Snowflake_Lanchain_Adhoc_SQLQuery_Generator) | LangChain · Snowflake · Streamlit | Natural language → SQL over Snowflake — schema-aware query generation, no manual SQL required |
 
-<a href="https://medium.com/@chavan.shardul360"><img align="left" src="https://raw.githubusercontent.com/shardulchavan/shardulchavan/main/Images/medium-icon-svgrepo-com.svg" alt="icon | Medium" width="21px"/></a>
+---
 
-<a href="https://instagram.com/chavan.shardul?igshid=YmMyMTA2M2Y="><img align="left" src="https://raw.githubusercontent.com/shardulchavan/shardulchavan/main/Images/instagram.svg" alt="icon | Instagram" width="21px"/></a>
-</br>
- 
-## 💼 Technical Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<img alt=”R” src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Unix](https://img.shields.io/badge/Unix-%2300599C.svg?style=for-the-badge&logo=unix&logoColor=white)  
+## How I think about building
 
+**Own the full stack, design for scale.** A founding engineer can't afford to say "that's not my layer." I've shipped data pipelines, REST APIs, ML classifiers, and frontend interfaces, and I've made the architecture decisions that connect them.
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)![Snowflake](https://img.shields.io/badge/snowflake-%2300AEFF.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+**Data architecture before code.** Most failures in AI products are data failures, wrong schema, missing context, untested edge cases. I design the data model first and work outward from there.
 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)  
+**Interpretability is a product requirement.** Especially in regulated or high-stakes domains, a model that can't explain itself can't ship. Every system I build includes feature-level explanations and audit trails.
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+**Two systems beat one black box.** My EHR classifier runs rule-based and LLM pipelines in parallel. Their disagreements surface edge cases neither catches alone, and flag low-confidence predictions for human review rather than silently misfiring.
 
-![Jupyter Lab](https://img.shields.io/badge/jupyter%20lab-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-## 🚀 Projects
+---
 
-| Repository | Description |
-| --- | --- |
-| [EHR-AI-Classifier](https://github.com/shardulchavan/ehr-ai-classifier) | Production-ready NLP system detecting diabetes & cancer from EHR clinical notes — rule-based feature engineering + GPT-4, F1: 0.90 |
-| [NewsSphereAI](https://github.com/shardulchavan/NewsSphereAI) | Personalized news digest with AI summarization and audio playback — Airflow, Pinecone, OpenAI, Streamlit |
-| [CFA-PDFs-RAG](https://github.com/shardulchavan/CFA-PDFs-RAG) | RAG pipeline for document Q&A — extracts, embeds, and answers questions from PDF content using Pinecone + GPT-4 |
-| [AWS-YTVideoTrendAnalyzer](https://github.com/shardulchavan/AWS-YTVideoTrendAnalyzer) | Scalable ETL pipeline on AWS analyzing YouTube video trends — S3, Lambda, Glue, QuickSight |
-| [Snowflake-AdventureWorks-Migration](https://github.com/shardulchavan/Snowflake-TakeHome-AdventureWorks-Migration) | Automated SQL Server → Snowflake migration framework — 760k rows, 70 tables, 30+ data type mappings via Parquet |
-| [Snowflake-LangChain-SQL-Generator](https://github.com/shardulchavan/Snowflake_Lanchain_Adhoc_SQLQuery_Generator) | Natural language → SQL query engine over Snowflake databases using LangChain |
+## Writing
 
-## 📝 Latest Blog Posts
-
-- [Forecasting Climate Change: An Exploratory Time Series Data Analysis Approach](https://medium.com/@chavan.shardul360/forecasting-climate-change-an-exploratory-time-series-data-analysis-approach-32ccc6ab7421)
-- ["Crash Course in Causality" — Understanding Cause-and-Effect Relationships](https://medium.com/@chavan.shardul360/crash-course-in-causal-analysis-understanding-cause-and-effect-relationships-29dabc7686bf)
+- [Forecasting Climate Change: A Time Series Analysis Approach](https://medium.com/@chavan.shardul360/forecasting-climate-change-an-exploratory-time-series-data-analysis-approach-32ccc6ab7421)
+- [Crash Course in Causality — Understanding Cause-and-Effect Relationships](https://medium.com/@chavan.shardul360/crash-course-in-causal-analysis-understanding-cause-and-effect-relationships-29dabc7686bf)
 - [Linear Methods to Reduce the Curse of Dimensionality](https://medium.com/aiskunks/linear-methods-to-reduce-the-curse-of-dimensionality-data-preprocessing-327ee544d6c4)
-<!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shardulchavan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shardulchavan&hide_progress=true&theme=cobalt)](https://github.com/shardulchavan/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shardulchavan&theme=dark&hide_border=false)<br/>
 
+---
 
-![](https://github-profile-trophy.vercel.app/?username=shardulchavan&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/>
--->
+## Stack
 
+**Languages**&nbsp;
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
+**Frontend**&nbsp;
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
+**Backend & APIs**&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![REST](https://img.shields.io/badge/REST%20API-000000?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
+**Data & Pipelines**&nbsp;
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-%2300AEFF.svg?style=flat-square&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
 
-<!--
-**shardulchavan/shardulchavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & ML**&nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
 
-Here are some ideas to get you started:
+**Infrastructure**&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
